@@ -1,6 +1,6 @@
 # Homebuyer Shortlist: Support
 
-**Contact:** michdev36@gmail.com. Please say which device and iOS version you use, and what you expected to happen.
+**Contact:** [michdev36@gmail.com](michdev36@gmail.com). Please say which device and iOS version you use, and what you expected to happen.
 
 ## Common questions
 

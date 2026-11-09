@@ -50,4 +50,4 @@ If this policy changes, the new version will be posted at this address with a ne
 
 ## Contact
 
-Questions: michdev36@gmail.com
+Questions: [michdev36@gmail.com](michdev36@gmail.com)
